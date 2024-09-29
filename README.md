@@ -61,5 +61,14 @@ When the game ends, the snake resets to the center of the screen, and your score
 - Add graphical improvements like a start screen and game-over screen.
 - Introduce obstacles to make the game more challenging.
 
+## Contribution
+
+If you have any suggestions or improvements, feel free to submit a pull request or open an issue on the GitHub repository.
+
 ## License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries, please contact me at evitabarboza195@gmail.com
